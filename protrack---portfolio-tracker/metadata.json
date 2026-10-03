@@ -1,0 +1,7 @@
+{
+  "name": "ProTrack - Portfolio Tracker",
+  "description": "Modern responsive portfolio tracker for stocks and cryptocurrencies with live pricing, asset allocation visualizations, performance metrics, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
